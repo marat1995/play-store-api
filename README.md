@@ -76,7 +76,7 @@ Protobuf classes generation happens on `assemble` step, tests a ran on `build` s
         
 ### Examples
 
-See [tests](https://github.com/yeriomin/play-store-api/blob/master/src/test/java/com/github/yeriomin/playstoreapi/GooglePlayAPITest.java) and [the project which this library was made for](https://github.com/yeriomin/YalpStore) for examples.
+See [tests](https://github.com/yeriomin/play-store-api/blob/master/src/test/java/com/github/yeriomin/playstoreapi/GooglePlayAPITest.java) and [the project which this library was made ](https://github.com/yeriomin/YalpStore) for examples.
 
 ### Further studies
 
